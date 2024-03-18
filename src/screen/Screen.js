@@ -1,8 +1,11 @@
 import React from 'react'
+import Quiz from '../components/Quiz'
 
 function Screen() {
   return (
-    <div>Screen</div>
+    <div>
+      <Quiz/>
+    </div>
   )
 }
 
